@@ -1,0 +1,993 @@
+[
+  {
+    "name": "Abbas Güçlü ile Genç Bakış",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "00:30",
+    "endTimeStr": "02:45",
+    "duration": 135,
+    "startTime": 1390429800,
+    "endTime": 1390437900,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/22/4936631494201401230030.jpg",
+    "summary": "Türkiye'nin sorunları öğrencilerle tartışılıyor.",
+    "longDescription": "Güncel konuların tartışıldığı bir platform olan Abbas Güçlü ile Genç Bakış, her hafta farklı bir üniversiteye konuk olarak, üniversite öğrencileri ve uzman konukları bir araya getiriyor. Güncel konuların tartışıldığı bir platform olan Abbas Güçlü ile Genç Bakış, her hafta farklı bir üniversiteye konuk olarak, üniversite öğrencileri ve uzman konukları bir araya getiriyor.",
+    "stemmedWords": [
+      "güncel",
+      "konu",
+      "platform",
+      "genç",
+      "bakış",
+      "hafta",
+      "fark",
+      "üniversite",
+      "konuk",
+      "üniversite",
+      "öğrenci",
+      "uzman",
+      "konuk",
+      "güncel",
+      "konu",
+      "platform",
+      "genç",
+      "bakış",
+      "hafta",
+      "fark",
+      "üniversite",
+      "konuk",
+      "üniversite",
+      "öğrenci",
+      "uzman",
+      "konuk"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Abbas Güçlü",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Abbas Güçlü",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "NIGHT"
+    ]
+  },
+  {
+    "name": "Rina",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "02:45",
+    "endTimeStr": "04:00",
+    "duration": 75,
+    "startTime": 1390437900,
+    "endTime": 1390442400,
+    "genreList": [
+      "Sinema"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5572704594201401230245.jpg",
+    "summary": "Üç yakın arkadaşın tek hayali birlikte açacakları şarap fabrikasıdır...",
+    "longDescription": "Ali, Ömer ve Umut adalı üç yakın arkadaştır. Ali plajda çalışmakta ve her yaz aşık olduğu kızın tatile gelmesini beklemekte, Umut babasıyla balıkçılık yapmakta, Ömer ise babasıyla üzüm bağında çalışmaktadır. Bu üç kafadarın tek umudu ise birlikte bir şarap fabrikası kurmaktadır. Tüm çabaları gerekli parayı bir araya getirmek içindir. Bu hayale sıkı sıkı sarılan kafadarların hayatı Vasilis'ten gelen bir haberle alt üst olur...",
+    "directors": [
+      "Şenol Sönmez"
+    ],
+    "actors": [
+      "Burcu Altın",
+      " Cezmi Baskın",
+      " Şennur Canpolat",
+      " Çağlar Çorumlu",
+      " Mahmut Gökgöz"
+    ],
+    "stemmedWords": [
+      "umut",
+      "arkadaş",
+      "plaj",
+      "her",
+      "aşık",
+      "tatil",
+      "umut",
+      "baba",
+      "balık",
+      "baba",
+      "üzüm",
+      "bağı",
+      "kafadar",
+      "umut",
+      "birlikte",
+      "şarap",
+      "fabrika",
+      "çaba",
+      "gerekli",
+      "para",
+      "için",
+      "hayal",
+      "kafadar",
+      "hayat",
+      "haber",
+      "alt",
+      "üst"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "NIGHT"
+    ]
+  },
+  {
+    "name": "Geniş Aile",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "04:00",
+    "endTimeStr": "06:45",
+    "duration": 165,
+    "startTime": 1390442400,
+    "endTime": 1390452300,
+    "genreList": [
+      "Dizi",
+      "Komedi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/4592458694201401230400.jpg",
+    "summary": "Kalabalığı, curcunası, dertleri, ardı arkası kesilmeyen komik olayları ile görebileceğiniz en 'Geniş Aile'...",
+    "longDescription": "Almancı biri ailenin kızı ile evlenip Almanya'ya giden Cevahir, üç ay sonra boşanmış olarak eve dönünce durgun olmayan ortalık daha da karışır. Evin babası, kızı Nazan'ı evlendirip evin nüfusunu azaltmaya çalışırken Cevahir'in yeniden eve dönmesi bütün planları altüst eder. Ailesine çok çektiren, ne okuyan ne de çalışıp hayatını bir düzene sokan Cevahir'in hiçbir şey olmamış gibi davranması, ailenin reisi babayı iyice çileden çıkarır ve onu eve kabul etmez. Sokakta kalmak istemeyen Cevahir kendince bir çözüm üretir fakat bu çözüm de kız kardeşi ile nişanlısının arasını bozar. Üstelik Cevahir gelir gelmez sadece ailesini değil, bütün mahalleyi de karıştırmayı başarır. Evlenip Almanya'ya gitmeden önceki sevgilisi Şükufe artık ezeli düşmanı Koyu Bilal ile birliktedir. Bunu öğrenen Cevahir ortalığı birbirine katar.",
+    "directors": [
+      "Ömer Uğur"
+    ],
+    "actors": [
+      "Ufuk Özkan",
+      " Rasim Öztekin",
+      " Halit Akçatepe",
+      " Zuhal Topal"
+    ],
+    "stemmedWords": [
+      "aile",
+      "kız",
+      "cevahir",
+      "ev",
+      "ortalık",
+      "da",
+      "evin",
+      "baba",
+      "kız",
+      "evin",
+      "nüfus",
+      "cevahir",
+      "yeni",
+      "ev",
+      "dönme",
+      "plan",
+      "eder",
+      "aile",
+      "hayat",
+      "düzen",
+      "cevahir",
+      "hiçbir",
+      "aile",
+      "reis",
+      "baba",
+      "çile",
+      "onu",
+      "ev",
+      "kabul",
+      "sokak",
+      "cevahir",
+      "kendince",
+      "çözüm",
+      "çözüm",
+      "kardeş",
+      "nişan",
+      "ara",
+      "üstelik",
+      "cevahir",
+      "gelir",
+      "sadece",
+      "aile",
+      "değil",
+      "mahalle",
+      "sevgi",
+      "ezeli",
+      "düşman",
+      "birlikte",
+      "cevahir",
+      "ortalık",
+      "katar"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "EARLY_MORNING"
+    ]
+  },
+  {
+    "name": "İrfan Değirmenci ile Günaydın",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "06:45",
+    "endTimeStr": "08:45",
+    "duration": 120,
+    "startTime": 1390452300,
+    "endTime": 1390459500,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/4691190694201401230645.jpg",
+    "summary": "Sabahın ilk gelişmeleri ve geceden kalanlar Günaydın'da...",
+    "longDescription": "Günaydın, yeni güne hazır uyanmak, işe, okula gitmeden önce gündemden haberdar olmak, gözden kaçanları, gölgede kalanları İrfan Değirmenci'nin yorumuyla yakalamak için seyircisini ekran başına bekliyor.",
+    "stemmedWords": [
+      "günaydın",
+      "yeni",
+      "hazır",
+      "okul",
+      "gündem",
+      "haberdar",
+      "gözde",
+      "gölge",
+      "kalan",
+      "irfan",
+      "değirmen",
+      "yorum",
+      "seyirci",
+      "ekran",
+      "baş"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "EARLY_MORNING",
+      "BREAKFEAST"
+    ]
+  },
+  {
+    "name": "Doktorum",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "08:45",
+    "endTimeStr": "10:30",
+    "duration": 105,
+    "startTime": 1390459500,
+    "endTime": 1390465800,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/4698726794201401230845.jpg",
+    "summary": "Sağlıkla ilgili bilgileri, tıp dünyasının güvenilir isimlerinden alın!",
+    "longDescription": "Sunuculuğunu Ceyda Düvenci ve Genel Cerrahi Uzmanı Prof. Dr. Murat Aksoy'un yaptığı Doktorum hafta içi her gün, tıp dünyasının güvenilir isimlerini konuk ediyor. Sağlık konusunda en doğru bilgi ve öneriyi, birinci elden halka ulaştıran Doktorum, tıbbi yöntemler, uygulamalar ve operasyonları canlı olarak ekrana getiriyor ya da stüdyo ortamına taşıyor. Doktorum, ayrıca canlı telefon bağlantılarıyla izleyenler ve konuk doktorlar arasında sağlıklı bir köprü oluşturuyor.",
+    "stemmedWords": [
+      "sunucu",
+      "düven",
+      "genel",
+      "cerrahi",
+      "uzman",
+      "murat",
+      "doktor",
+      "hafta",
+      "iç",
+      "tıp",
+      "dünya",
+      "güvenilir",
+      "isim",
+      "konuk",
+      "sağlık",
+      "konu",
+      "bilgi",
+      "öneri",
+      "birinci",
+      "elde",
+      "halka",
+      "doktor",
+      "tıbbi",
+      "yöntem",
+      "operasyon",
+      "ekran",
+      "da",
+      "stüdyo",
+      "ortam",
+      "doktor",
+      "ayrıca",
+      "telefon",
+      "bağlantı",
+      "konuk",
+      "doktor",
+      "ara",
+      "sağlık",
+      "köprü"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Ceyda Düvenci",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      },
+      {
+        "keyword": "tıp",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "BREAKFEAST",
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Akasya Durağı",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "10:30",
+    "endTimeStr": "12:00",
+    "duration": 90,
+    "startTime": 1390465800,
+    "endTime": 1390471200,
+    "genreList": [
+      "Dizi",
+      "Komedi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5572641494201401231030.jpg",
+    "summary": "Sevilen dizi tekrar bölümleriyle ekranda!",
+    "longDescription": "Akasya taksi durağında çalışan şoförlerinin ekmek kavgaları, hüzünleri, neşeleri...",
+    "directors": [
+      "Yaşar Seriner"
+    ],
+    "actors": [
+      "Zeki Alasya",
+      " Cezmi Baskın",
+      " Levent Ülgen"
+    ],
+    "stemmedWords": [
+      "akasya",
+      "taksi",
+      "durak",
+      "şoför",
+      "ekmek",
+      "kavga",
+      "hüzün",
+      "neşe"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Gün Arası",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "12:00",
+    "endTimeStr": "12:15",
+    "duration": 15,
+    "startTime": 1390471200,
+    "endTime": 1390472100,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5572625194201401231200.jpg",
+    "summary": "Türkiye gündeminden gün ortasında yaşanan gelişmeler sıcağı sıcağına ekrana geliyor.",
+    "longDescription": "Gün içinde yaşanan gelişmeler, gündemde yer alan konular, siyasetten ekonomiye güncel haberler, Şule Bulut'un özgün sunumuyla aktarılıyor.",
+    "stemmedWords": [
+      "gündem",
+      "alan",
+      "konu",
+      "siyaset",
+      "ekonomi",
+      "güncel",
+      "haber",
+      "bulut",
+      "sunum"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Kaynana Gelin Seda'ya Gelin",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "12:15",
+    "endTimeStr": "14:45",
+    "duration": 150,
+    "startTime": 1390472100,
+    "endTime": 1390481100,
+    "genreList": [
+      "Eğlence",
+      "Yarışma"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/22/5589243194201401231215.jpg",
+    "summary": "Gelinlerin kaynanalarıyla yarıştıkları ödüllerle dolu eğlenceli bir yarışma programı.",
+    "longDescription": "Kaynana Gelin, Seda'ya Gelin'de; rekabet kadar, yarışmayı ve eğlenmeyi seven her gelin-damat-kaynanaya yer var. Seda Sayan'ın dillere destan ödül yağmurundan nasibini alacak olan gelin ve kaynanalar, ev işlerinde maharetlerini gösterirken, kahkahalarla izlenecek, birçok hareketli oyunu da birbirine karşı oynuyorlar.",
+    "stemmedWords": [
+      "kaynana",
+      "gelin",
+      "seda",
+      "gelin",
+      "rekabet",
+      "seda",
+      "saya",
+      "dil",
+      "destan",
+      "ödül",
+      "yağmur",
+      "nasip",
+      "alacak",
+      "gelin",
+      "kaynana",
+      "ev",
+      "iş",
+      "maharet",
+      "kahkaha",
+      "hareket",
+      "oyun",
+      "karşı"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "LATE_MORNING",
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Kaynana Gelin Seda'ya Gelin",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "12:30",
+    "endTimeStr": "15:15",
+    "duration": 165,
+    "startTime": 1390473000,
+    "endTime": 1390482900,
+    "genreList": [
+      "Eğlence",
+      "Yarışma"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5589243194201401231230.jpg",
+    "summary": "Gelinlerin kaynanalarıyla yarıştıkları ödüllerle dolu eğlenceli bir yarışma programı.",
+    "longDescription": "Kaynana Gelin, Seda'ya Gelin'de; rekabet kadar, yarışmayı ve eğlenmeyi seven her gelin-damat-kaynanaya yer var. Seda Sayan'ın dillere destan ödül yağmurundan nasibini alacak olan gelin ve kaynanalar, ev işlerinde maharetlerini gösterirken, kahkahalarla izlenecek, birçok hareketli oyunu da birbirine karşı oynuyorlar.",
+    "stemmedWords": [
+      "kaynana",
+      "gelin",
+      "seda",
+      "gelin",
+      "rekabet",
+      "seda",
+      "saya",
+      "dil",
+      "destan",
+      "ödül",
+      "yağmur",
+      "nasip",
+      "alacak",
+      "gelin",
+      "kaynana",
+      "ev",
+      "iş",
+      "maharet",
+      "kahkaha",
+      "hareket",
+      "oyun",
+      "karşı"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "LATE_MORNING",
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Evim Şahane",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "14:45",
+    "endTimeStr": "16:45",
+    "duration": 120,
+    "startTime": 1390481100,
+    "endTime": 1390488300,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/22/5589243294201401231445.jpg",
+    "summary": "Mimar Selim Yuhay ve ekibi, üç günde ve hiçbir ücret almadan hayalleri gerçekleştirmeye devam ediyor.",
+    "longDescription": "Evim Şahane Mimarı Selim Yuhay, Türkiye'nin en yetenekli usta ekibi ve Evim Şahane TIR'ı, hayallerini gerçekleştirmek isteyenlerin kapılarını çalıyor. İşe, evinin dekorasyonundan memnun olmayan ev sahibini yakından tanıyarak başlayan Mimar Selim Yuhay, ev sahibinin hayallerini, zevk ve tercihlerini öğrendikten sonra yeni tasarım için bir yol haritası, bütçe ve alışveriş listesi çıkarıp, ardından da büyük değişim için start veriyor.",
+    "stemmedWords": [
+      "ev",
+      "mimar",
+      "selim",
+      "yetenek",
+      "usta",
+      "ekip",
+      "ev",
+      "hayal",
+      "kapı",
+      "evin",
+      "dekorasyon",
+      "memnun",
+      "ev",
+      "sahip",
+      "mimar",
+      "selim",
+      "ev",
+      "sahip",
+      "hayal",
+      "zevk",
+      "tercih",
+      "yeni",
+      "tasarım",
+      "harita",
+      "bütçe",
+      "alışveriş",
+      "liste",
+      "art",
+      "değişim",
+      "start"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Evim Şahane",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "15:15",
+    "endTimeStr": "17:00",
+    "duration": 105,
+    "startTime": 1390482900,
+    "endTime": 1390489200,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5589243294201401231515.jpg",
+    "summary": "Mimar Selim Yuhay ve ekibi, üç günde ve hiçbir ücret almadan hayalleri gerçekleştirmeye devam ediyor.",
+    "longDescription": "Evim Şahane, Akbaş Ailesi'ne verdiği sözü tutmak için Mimar Selim Yuhay ve usta ekibi ile ilk kez İstanbul dışına çıkıyor. Ege Üniversitesi'nde ilik nakli yapılan ve hayata tutunan 8 yaşındaki Melis Akbaş, 161 gün sonra hastaneden taburcu edilirken Evim Şahane Mimarı ve ustaları da yanında. Melis'in yeni hayatına yeni odasında başlaması için İzmir'e giden Evim Şahane Mimarı ve ustaları, salonu ve kardeşi Arda'nın odasını da yeniliyor.",
+    "stemmedWords": [
+      "ev",
+      "akbaş",
+      "aile",
+      "söz",
+      "mimar",
+      "selim",
+      "usta",
+      "ekip",
+      "ilk",
+      "kez",
+      "dış",
+      "ege",
+      "üniversite",
+      "ilik",
+      "nakli",
+      "yapı",
+      "hayat",
+      "yaş",
+      "akbaş",
+      "hastane",
+      "tabur",
+      "ev",
+      "mimar",
+      "usta",
+      "yan",
+      "mel",
+      "yeni",
+      "hayat",
+      "yeni",
+      "oda",
+      "ev",
+      "mimar",
+      "usta",
+      "salon",
+      "kardeş",
+      "arda",
+      "oda"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Arka Sokaklar",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "16:45",
+    "endTimeStr": "18:50",
+    "duration": 125,
+    "startTime": 1390488300,
+    "endTime": 1390495800,
+    "genreList": [
+      "Dizi",
+      "Macera"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/22/5589243494201401231645.jpg",
+    "summary": "İstanbul´da mücadele veren polislerin serüvenleri...",
+    "longDescription": "İstanbul Polis Teşkilatı Asayiş Şube'de görev yapan sivil bir ekip, minibüsleriyle İstanbul'un sokaklarını arşınlamakta ve karşılarına çıkan her türlü kanunsuzlukla savaşmaktadırlar. Polisler, görevleri sırasında değişik ve çeşitli insan hikayeleriyle sürekli karşılaşmaktadır. Bunlar zaman zaman gülümseten, zaman zaman da iç burkan hikayelerdir...",
+    "directors": [
+      "Orhan Oğuz"
+    ],
+    "actors": [
+      "Zafer Ergin",
+      " Şevket Çoruh",
+      " Özgür Ozan",
+      " Uğur Pektaş"
+    ],
+    "stemmedWords": [
+      "polis",
+      "teşkilat",
+      "asayiş",
+      "şube",
+      "görev",
+      "sivil",
+      "ekip",
+      "minibüs",
+      "sokak",
+      "karşı",
+      "kanun",
+      "polis",
+      "görev",
+      "sıra",
+      "değişik",
+      "çeşitli",
+      "insan",
+      "hikaye",
+      "sürekli",
+      "hikaye"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "DAYTIME",
+      "EVENING"
+    ]
+  },
+  {
+    "name": "Arka Sokaklar",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "17:00",
+    "endTimeStr": "18:50",
+    "duration": 110,
+    "startTime": 1390489200,
+    "endTime": 1390495800,
+    "genreList": [
+      "Dizi",
+      "Macera"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5589243494201401231700.jpg",
+    "summary": "İstanbul´da mücadele veren polislerin serüvenleri...",
+    "longDescription": "İstanbul Polis Teşkilatı Asayiş Şube'de görev yapan sivil bir ekip, minibüsleriyle İstanbul'un sokaklarını arşınlamakta ve karşılarına çıkan her türlü kanunsuzlukla savaşmaktadırlar. Polisler, görevleri sırasında değişik ve çeşitli insan hikayeleriyle sürekli karşılaşmaktadır. Bunlar zaman zaman gülümseten, zaman zaman da iç burkan hikayelerdir...",
+    "directors": [
+      "Orhan Oğuz"
+    ],
+    "actors": [
+      "Zafer Ergin",
+      " Şevket Çoruh",
+      " Özgür Ozan",
+      " Uğur Pektaş"
+    ],
+    "stemmedWords": [
+      "polis",
+      "teşkilat",
+      "asayiş",
+      "şube",
+      "görev",
+      "sivil",
+      "ekip",
+      "minibüs",
+      "sokak",
+      "karşı",
+      "kanun",
+      "polis",
+      "görev",
+      "sıra",
+      "değişik",
+      "çeşitli",
+      "insan",
+      "hikaye",
+      "sürekli",
+      "hikaye"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "DAYTIME",
+      "EVENING"
+    ]
+  },
+  {
+    "name": "Koca Kafalar",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "18:50",
+    "endTimeStr": "19:00",
+    "duration": 10,
+    "startTime": 1390495800,
+    "endTime": 1390496400,
+    "genreList": [
+      "Eğlence",
+      "Eğlence Programı"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/4691596794201401231850.jpg",
+    "summary": "Koca Kafalar, gündemi mizahi yorumlarıyla süsleyerek haber bülteni sunuyorlar.",
+    "longDescription": "Siyasetten magazine kadar gündeme ilişkin tüm haberler, Koca Grafi2000 Prodüksiyon tarafından hayata geçirilen ve yapımcılığını Varol Yaşaroğlu'nun yaptığı programda, Koca Kafalar'ı Berk Tokay ve Vural Yaşaroğlu canlandırıyor.",
+    "stemmedWords": [
+      "siyaset",
+      "magazin",
+      "gündem",
+      "ilişkin",
+      "haber",
+      "prodüksiyon",
+      "taraf",
+      "hayat",
+      "program",
+      "kafa",
+      "berk"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Grafi2000",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Berk Tokay",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "EVENING"
+    ]
+  },
+  {
+    "name": "Kanal D Ana Haber",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "19:00",
+    "endTimeStr": "20:00",
+    "duration": 60,
+    "startTime": 1390496400,
+    "endTime": 1390500000,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/3142377594201401231900.jpg",
+    "summary": "Türkiye'de ve dünyada yaşanan gelişmeler, son dakika haberleri...",
+    "longDescription": "Kanal D Haber Merkezi tarafından hazırlanan haber bülteninde, tüm olaylar sıcağı sıcağına izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor.",
+    "stemmedWords": [
+      "kanal",
+      "haber",
+      "merkezi",
+      "taraf",
+      "haber",
+      "bülten",
+      "olay",
+      "siyaset",
+      "ekonomi",
+      "kültür",
+      "sanat",
+      "dünya",
+      "gündem",
+      "ilişkin",
+      "önem",
+      "bağlantı",
+      "ekran"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Kanal D",
+        "keywordTypes": [
+          "Agent",
+          "Organisation",
+          "Broadcaster",
+          "TelevisionStation"
+        ]
+      },
+      {
+        "keyword": "Türkiye",
+        "keywordTypes": [
+          "Place",
+          "PopulatedPlace",
+          "Country"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      "EVENING"
+    ]
+  },
+  {
+    "name": "İntikam",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "20:00",
+    "endTimeStr": "22:30",
+    "duration": 150,
+    "startTime": 1390500000,
+    "endTime": 1390509000,
+    "genreList": [
+      "Dizi",
+      "Dram"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/22/5512134394201401232000.jpg",
+    "summary": "Babası bir komploya kurban giden bir genç kızın, bu komplonun sorumlularıyla intikam savaşı...",
+    "longDescription": "Hayatta sahip oldukları en değerli şey birbirleri olan, huzurlu ve mutlu bir şekilde yaşan bir baba ve küçük bir kız... Her şey bu ailenin babası Adil'in, iftiraya uğramasıyla bir anda yıkılır. Banka dolandırıcılığıyla suçlanan Adil, suçsuzluğunu kanıtlayamayınca hapse mahkum olur. Yetimhaneye verilen Derin, uzun yıllar sonra babasının suçsuz olduğunu öğrenir ve sorumlularını affetmek yerine, onlardan intikam almaya karar verir. İsmini Yağmur olarak değiştiren Derin, hesaplaşmak için doğduğu yere geri döner... Emre'nin, Yağmur ve Ali'ye dair şüpheleri, Yağmur'un resti ve Aslı'nın itiraflarıyla iyice pekişir. Ali, Yağmur'la rahat görüşebilmek için gözlerden ırak bir ev tutarken, öfkeden deliye dönmüş olan Emre'nin kendisi için hazırladığı sondan habersizdir. Emre'nin ailesinin kirli işlerini Yağmur'a itiraf etmesi ise, onun Ali ve Yağmur'a oynadığı oyunun bir parçasıdır. Derin'in ortaya çıkan üvey kardeşi Deniz ortalığı iyice karıştırır. Derin Çelik Vakfı adına düzenlenen basın toplantısı tam bir skandala dönüşecektir.",
+    "directors": [
+      "Çağrı Vila Lostuvalı"
+    ],
+    "actors": [
+      "Beren Saat",
+      " Mert Fırat",
+      " Yiğit Özşener",
+      " Alican Yücesoy",
+      " Engin Hepileri",
+      " Arzu Gamze Kılınç"
+    ],
+    "stemmedWords": [
+      "hayat",
+      "sahip",
+      "değer",
+      "huzur",
+      "şekil",
+      "baba",
+      "küçük",
+      "şey",
+      "aile",
+      "baba",
+      "adil",
+      "iftira",
+      "ant",
+      "banka",
+      "adil",
+      "suçsuz",
+      "hapis",
+      "mahkum",
+      "yetimhane",
+      "veri",
+      "baba",
+      "suçsuz",
+      "intikam",
+      "isim",
+      "yağmur",
+      "geri",
+      "döner",
+      "yağmur",
+      "dair",
+      "şüphe",
+      "yağmur",
+      "rest",
+      "asıl",
+      "itiraf",
+      "göz",
+      "ırak",
+      "ev",
+      "tutar",
+      "öfke",
+      "deli",
+      "kendi",
+      "sonda",
+      "haber",
+      "aile",
+      "kir",
+      "iş",
+      "yağmur",
+      "itiraf",
+      "yağmur",
+      "oyun",
+      "parça",
+      "ortay",
+      "kardeş",
+      "deniz",
+      "ortalık",
+      "çelik",
+      "vakıf",
+      "ad",
+      "basın",
+      "toplantı",
+      "skandal"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "EVENING",
+      "PRIME_TIME"
+    ]
+  },
+  {
+    "name": "Arkadaşım Hoşgeldin",
+    "date": "23.Ocak.2014",
+    "startTimeStr": "22:30",
+    "endTimeStr": "00:30",
+    "duration": 120,
+    "startTime": 1390509000,
+    "endTime": 1390516200,
+    "genreList": [
+      "Eğlence",
+      "Eğlence Programı"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/TvRehberi/363x236/2014/01/23/5599127994201401232230.jpg",
+    "summary": "Ezgi Mola ve Tolga Çevik her hafta seyircisini bambaşka yerlerde ve zamanlarda buluşturmaya devam ediyor.",
+    "longDescription": "Tolga Çevik, Ezgi Mola, Yönetmen ve Minik'in bu haftaki konuğu; Burcu Esmersoy. Günümüzden uzaklaşıp Ortaçağ'a giden ekip, bu kez de özel korumalık işi için kolları sıvıyor. Ezgi Mola ve Tolga Çevik özel koruma olup, Burcu Esmersoy da korudukları güzel prenses olunca kahkaha tufanı da kaçınılmaz oluyor. Ezgi Mola, Minik ve Yönetmen ile birlikte Tolga Çevik her hafta seyircisini bambaşka yerlerde, zamanlarda ve durumlarda buluşturmaya devam ediyor.",
+    "actors": [
+      "Ezgi Mola",
+      " Tolga Çevik"
+    ],
+    "stemmedWords": [
+      "tolga",
+      "çevik",
+      "ezgi",
+      "mola",
+      "yönetmen",
+      "haf",
+      "konuk",
+      "burç",
+      "günü",
+      "ekip",
+      "kez",
+      "özel",
+      "iş",
+      "kol",
+      "ezgi",
+      "mola",
+      "tolga",
+      "çevik",
+      "özel",
+      "burç",
+      "prenses",
+      "kahkaha",
+      "tufan",
+      "ezgi",
+      "mola",
+      "yönetmen",
+      "birlikte",
+      "tolga",
+      "çevik",
+      "hafta",
+      "seyirci",
+      "bambaşka",
+      "yer",
+      "durum",
+      "devam"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Tolga Çevik",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      },
+      {
+        "keyword": "Ezgi Mola",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      },
+      {
+        "keyword": "Burcu Esmersoy",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      },
+      {
+        "keyword": "Ezgi Mola",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      },
+      {
+        "keyword": "Tolga Çevik",
+        "keywordTypes": [
+          "Agent",
+          "Http",
+          "Person",
+          "Artist",
+          "Actor"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      "PRIME_TIME"
+    ]
+  }
+]

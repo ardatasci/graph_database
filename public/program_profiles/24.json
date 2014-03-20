@@ -1,0 +1,691 @@
+
+[
+  {
+    "name": "Ömer Döngeloğlu ile Sahur Vakti",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "01:30",
+    "endTimeStr": "05:45",
+    "duration": 255,
+    "startTime": 1373322600,
+    "endTime": 1373337900,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Ömer Döngeloğlu'nun anlatımıyla Asr-ı Saadet yaşamına ve Ramazana özel tüm güzellikler Sahur Vakti'nde ekrana geliyor...",
+    "longDescription": "Ömer Döngeloğlu'nun etkileyici anlatımlarıyla İslam tarihinden olaylar, Ramazan ayına özel bir sohbet ve Ramazana özel yaşanan tüm güzellikler Kanal 7 ekranlarından izleyenlere ulaşıyor. Asr-ı Saadet yaşamının detaylarını bütün güzellikleriyle ortaya koyan çarpıcı sohbetiyle Ömer Döngeloğlu, sahurunuzu manevi bir şölene çeviriyor. Konukların okuduğu Kur'an-ı Kerim, naat ve ilahileriyle renklenen gecenin bereketi, Ramazan ayının gelişiyle birlikte yaşanan coşku ve manevi atmosfer programda yaşa",
+    "stemmedWords": [
+      "anlatım",
+      "tarihi",
+      "olay",
+      "ramazan",
+      "ayın",
+      "özel",
+      "sohbet",
+      "ramazan",
+      "özel",
+      "kanal",
+      "ekran",
+      "asır",
+      "saadet",
+      "yaşam",
+      "detay",
+      "ortay",
+      "çarpı",
+      "sohbet",
+      "sahur",
+      "şölen",
+      "konuk",
+      "kura",
+      "kerim",
+      "naat",
+      "ilahi",
+      "bereket",
+      "ramazan",
+      "ayın",
+      "birlikte",
+      "coşku",
+      "atmosfer",
+      "program"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Asr-ı Saadet",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Kur'an-ı Kerim",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "NIGHT",
+      "EARLY_MORNING"
+    ]
+  },
+  {
+    "name": "Hayat Dersleri",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "05:45",
+    "endTimeStr": "07:00",
+    "duration": 75,
+    "startTime": 1373337900,
+    "endTime": 1373342400,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Prof. Dr. Cevat Akşit izleyicilerden gelen ilginç hayat sorularını cevaplıyor.",
+    "longDescription": "Farklı sunum ve izleyicilerden gelen ilginç sorularla dikkat çeken Hayat Dersleri'ni, Prof. Dr. Cevat Akşit sunuyor. Prof. Akşit, dini tüm tartışmaları bir kenara bırakarak; iyi, ahlaklı, saygılı, mutlu, huzurlu bir insanın nasıl olması gerektiğini anlatıyor.",
+    "stemmedWords": [
+      "fark",
+      "sunum",
+      "ilginç",
+      "soru",
+      "dikkat",
+      "hayat",
+      "ders",
+      "dini",
+      "tartışma",
+      "kenar",
+      "ahlak",
+      "saygı",
+      "huzur",
+      "insan"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "EARLY_MORNING"
+    ]
+  },
+  {
+    "name": "Kanal 7'de Sabah",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "07:00",
+    "endTimeStr": "08:00",
+    "duration": 60,
+    "startTime": 1373342400,
+    "endTime": 1373346000,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Önceki günün gelişmeleri ve günün haber gündemleri izleyicilere aktarılıyor.",
+    "longDescription": "Banu Taviloğlu'nun sunumuyla ekrana gelen Kanal 7'de Sabah, siyasetin kalbi Ankara'daki gelişmelerden kültür sanata; yurttan ve dünyadan haberlerin yanı sıra haftanın gerçek magazin olaylarına, göz ardı edilmiş Anadolu insanının sorunlarına kadar her türlü konu ve gelişmeyi sabahın ilk ışıklarıyla ekrana taşıyor.",
+    "stemmedWords": [
+      "sunum",
+      "ekran",
+      "kanal",
+      "siyaset",
+      "kalbi",
+      "kültür",
+      "sanat",
+      "yurt",
+      "dünya",
+      "haber",
+      "yan",
+      "sıra",
+      "hafta",
+      "gerçek",
+      "magazin",
+      "olay",
+      "göz",
+      "art",
+      "insan",
+      "sorun",
+      "her",
+      "konu",
+      "ilk",
+      "ışık",
+      "ekran"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "BREAKFEAST"
+    ]
+  },
+  {
+    "name": "Zeynep",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "08:00",
+    "endTimeStr": "09:20",
+    "duration": 80,
+    "startTime": 1373346000,
+    "endTime": 1373350800,
+    "genreList": [
+      "Dizi",
+      "Dram"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Huysuz bir ihtiyarla sevimli torununun yürek ısıtan öyküsü ekranlara geliyor.",
+    "longDescription": "Huysuz dedesiyle anlaşmaya çalışan Zeynep bir yanlış anlama sonucu tefeciler tarafından kaçırılmıştır. Seyfi Bey hem üzgündür hem de öfkeli. Fakat Zeynep'i kaçıran tefeciler küçük yaramazı yanlışlıkla ellerinden kaçırırlar. Tefecilerin elinden kurtulan Zeynep, huysuz dedesinin biraz da olsa gönlünü kazanmıştır.",
+    "directors": [
+      "Aram Gülyüz"
+    ],
+    "actors": [
+      "Eşref Kolçak",
+      " Gözde Akyıldız",
+      " Funda Postacı",
+      " Suat Güzey",
+      " Aleksandr Morello",
+      " Ruken Demirer"
+    ],
+    "stemmedWords": [
+      "huy",
+      "dede",
+      "anlaşma",
+      "yanlış",
+      "anlam",
+      "sonuç",
+      "tefeci",
+      "taraf",
+      "bey",
+      "öfke",
+      "tefeci",
+      "küçük",
+      "yanlış",
+      "el",
+      "tefeci",
+      "el",
+      "huy",
+      "dede",
+      "biraz",
+      "gönül"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "BREAKFEAST",
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Sıla",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "09:20",
+    "endTimeStr": "11:30",
+    "duration": 130,
+    "startTime": 1373350800,
+    "endTime": 1373358600,
+    "genreList": [
+      "Dizi",
+      "Dram"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Töreleri ve duyguları arasında kalan Boran ile güzeller güzeli Sıla'nın aşkı...",
+    "longDescription": "Güneydoğu'da filizlenen zor bir aşkın öyküsü... Kanun tanımaz töre ve töreye karşı gelen bir aşk... Sıla, on üç yaşındayken ailesinden koparılıp, İstanbul'daki çocuksuz bir aileye verilir. Ancak yıllar sonra yüzünü bile hatırlayamadığı ağabeyinin hayatını kurtarmak için berdel olarak, aşiret reisi Boran'la evlendirilir. Sıla, artık büyük bir evde hapiste gibidir.",
+    "directors": [
+      "Gül Oğuz"
+    ],
+    "actors": [
+      "Cansu Dere",
+      " Mehmet Akif Alakurt",
+      " Zeynep Eronat",
+      " Menderes Samancılar"
+    ],
+    "stemmedWords": [
+      "güneydoğu",
+      "aşkın",
+      "öykü",
+      "kanun",
+      "töre",
+      "töre",
+      "karşı",
+      "aşk",
+      "sıla",
+      "yaş",
+      "aile",
+      "çocuk",
+      "aile",
+      "ağabey",
+      "hayat",
+      "aşiret",
+      "reis",
+      "boran",
+      "sıla",
+      "ev",
+      "hapis"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Sıla",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Sabır",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "11:30",
+    "endTimeStr": "13:00",
+    "duration": 90,
+    "startTime": 1373358600,
+    "endTime": 1373364000,
+    "genreList": [
+      "Sinema"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Hain yüreklerin engeline takılan iki sevdalı gencin öyküsü ekrana geliyor; Sabır...",
+    "longDescription": "Meral ile Ali birbirine sevdalı iki gençtir. Meral evlenmeleri için gerekli olan parayı kazanmak için şehre giden Ali'sinin yolunu beklemektedir. Ancak bu sırada annesinin Meral üzerindeki baskıları bitmek tükenmek bilmez. Meral'in Ali'ye olan sevgisine karşılık annesi onu Ağa'nın oğlu Cemil ile evliliğe zorlamaktadır. Annesinin zorlamalarına daha fazla karşı koyamayan genç kız çaresiz boyun büker ve düğün hazırlıkları başlar.",
+    "directors": [
+      "Zeynep Tor"
+    ],
+    "actors": [
+      "Ümit Tombak",
+      " Ezgi Sertel",
+      "Barış Koçak",
+      " Ayşegül Ünsal",
+      " Sevil Balaban"
+    ],
+    "stemmedWords": [
+      "meral",
+      "sevda",
+      "genç",
+      "meral",
+      "gerekli",
+      "para",
+      "şehir",
+      "yol",
+      "sıra",
+      "anne",
+      "meral",
+      "üzeri",
+      "baskı",
+      "meral",
+      "sevgi",
+      "karşılık",
+      "anne",
+      "ağa",
+      "oğul",
+      "cemil",
+      "evlilik",
+      "anne",
+      "karşı",
+      "genç",
+      "çare",
+      "boyun",
+      "düğün",
+      "hazırlık"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "LATE_MORNING"
+    ]
+  },
+  {
+    "name": "Dr. Feridun Kunak Aramızda",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "13:00",
+    "endTimeStr": "14:30",
+    "duration": 90,
+    "startTime": 1373364000,
+    "endTime": 1373369400,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Dr. Feridun Kunak ayağınıza kadar geliyor, sağlık sorunlarınıza çare oluyor...",
+    "longDescription": "Ramazan ayı boyunca il il gezerek hastalarının ayağına giden Dr. Feridun Kunak, hastalıklara çare bulmaya geliyor. Kimi zaman sahur, kimi zaman iftar sofralarına konuk olan Dr. Feridun Kunak, doğada farklı iklimlerde yetişen bitkiler, hastalıklara doğal tedavi yöntemleri hakkında hem izleyicilere hem de konuk olduğu evdeki hastalara bilgi veriyor.",
+    "stemmedWords": [
+      "ramazan",
+      "ayı",
+      "boyun",
+      "il",
+      "il",
+      "hasta",
+      "ayak",
+      "hastalık",
+      "çare",
+      "sahur",
+      "iftar",
+      "sofra",
+      "konuk",
+      "doğa",
+      "fark",
+      "iklim",
+      "bitki",
+      "hastalık",
+      "doğal",
+      "tedavi",
+      "yöntem",
+      "hak",
+      "konuk",
+      "ev",
+      "hasta",
+      "bilgi"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Nursaçan'la Sohbetler",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "14:30",
+    "endTimeStr": "16:15",
+    "duration": 105,
+    "startTime": 1373369400,
+    "endTime": 1373375700,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Necmettin Nursaçan'ın kendine has anlatımıyla Kur'an-ı Kerim ve hadisler ışığında sohbetler yapılıyor.",
+    "longDescription": "Muhsin Bay'ın sunumu Necmettin Nursaçan'ın anlatımıyla ekrana gelen programda, Hz. Muhammed'in hayatı, Kur'an-ı Kerim'de anlatılanlar, İslam'ın şartları, eşler arasındaki sorunlar, çocuk terbiyesi, kul hakkı ve insanı ilgilendiren tüm konularda Kur'an ve sünnet ışığında bilgiler veriliyor.",
+    "stemmedWords": [
+      "sunum",
+      "anlatım",
+      "ekran",
+      "program",
+      "hayat",
+      "kura",
+      "kerim",
+      "şart",
+      "ara",
+      "sorun",
+      "çocuk",
+      "terbiye",
+      "kul",
+      "hak",
+      "insan",
+      "konu",
+      "kura",
+      "sünnet",
+      "ışık",
+      "bilgi",
+      "veri"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "İslam'ın şartları",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Kur'an",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Fırtına",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "16:15",
+    "endTimeStr": "17:50",
+    "duration": 95,
+    "startTime": 1373375700,
+    "endTime": 1373381400,
+    "genreList": [
+      "Dizi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Karadeniz'in yemyeşil bir köyünde yaşanan aşk hikayesi anlatılıyor.",
+    "longDescription": "Köyün yakışıklı delikanlısı Ali ile Karadeniz kadar inatçı ve güzel Zeynep, önlerindeki tüm engellere rağmen, bir gün kavuşmak umuduyla aşklarını sürdürürler. Kısa zamanda zengin olma hayallerine dalmış, bahçesini, tarlasını unutan ve hemen köşeyi dönme derdinde olan Ali'nin babası Hasan ile definecilik macerasına soktuğu Zeynep'in babası ve zengin arkadaşı Fevzi, onların bu aşkına hoş baksa da kızın annesi Emine, köye kız vermek istemez. Bu aşka başka karşı çıkanlar da vardır tabi ki.",
+    "directors": [
+      "Metin Balekoğlu"
+    ],
+    "actors": [
+      "Burçin Terzioğlu",
+      " Murat Yıldırım",
+      "Erkan Can"
+    ],
+    "stemmedWords": [
+      "köy",
+      "yakışıklı",
+      "delikanlı",
+      "inatçı",
+      "ön",
+      "engel",
+      "rağmen",
+      "umut",
+      "aşk",
+      "kısa",
+      "hayal",
+      "bahçe",
+      "tarla",
+      "hemen",
+      "köşe",
+      "dönme",
+      "dert",
+      "baba",
+      "define",
+      "macera",
+      "baba",
+      "arkadaş",
+      "aşkın",
+      "hoş",
+      "anne",
+      "emin",
+      "köy",
+      "aşk",
+      "karşı",
+      "ki"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Karadeniz",
+        "keywordTypes": []
+      }
+    ],
+    "timeOfDay": [
+      "DAYTIME"
+    ]
+  },
+  {
+    "name": "Mustafa Karataş İle İftar Saati",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "17:50",
+    "endTimeStr": "20:45",
+    "duration": 175,
+    "startTime": 1373381400,
+    "endTime": 1373391900,
+    "genreList": [
+      "Yaşam",
+      "Hobi"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Dualar, ilahiler, canlı telefon bağlantıları ve manevi bir atmosferle renklenen dopdolu bir iftar programı...",
+    "longDescription": "İlahiyatçı Doç. Dr. Mustafa Karataş'ın sunduğu İftar Saati programında Kur'an-ı Kerim ve ilahilerle her iftarda manevi bir atmosfer yaşanıyor. Sanatçılar birbirinden güzel ilahileriyle, Mustafa Karataş ise stüdyodan yaptığı canlı yayınla Ramazan'ın coşkusunu evlerinize taşıyor.",
+    "stemmedWords": [
+      "ilahiyat",
+      "iftar",
+      "saat",
+      "program",
+      "kura",
+      "kerim",
+      "ilahi",
+      "iftar",
+      "atmosfer",
+      "sanat",
+      "ilahi",
+      "stüdyo",
+      "yayın",
+      "ramazan",
+      "coşku",
+      "ev"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Kur'an-ı Kerim",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Karataş",
+        "keywordTypes": [
+          "Place",
+          "PopulatedPlace",
+          "AdministrativeRegion"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      "DAYTIME",
+      "EVENING",
+      "PRIME_TIME"
+    ]
+  },
+  {
+    "name": "Kanal 7 Haber Saati",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "20:45",
+    "endTimeStr": "21:45",
+    "duration": 60,
+    "startTime": 1373391900,
+    "endTime": 1373395500,
+    "genreList": [
+      "Haber",
+      "Aktüalite"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Türkiye ve dünya gündemindeki önemli gelişmeler aktarılıyor.",
+    "longDescription": "Kanal 7 Haber Merkezi dünyada ve Türkiye'de yaşanan tüm gelişmeleri ekrana taşıyor. Türkiye ve dünya gündeminin önemli gelişmeleri, farklı görüş ve renklerle izleyicilere aktarılıyor.",
+    "stemmedWords": [
+      "kanal",
+      "haber",
+      "merkezi",
+      "dünya",
+      "ekran",
+      "dünya",
+      "gündem",
+      "önem",
+      "fark",
+      "renk"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Türkiye",
+        "keywordTypes": [
+          "Place",
+          "PopulatedPlace",
+          "Country"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      "PRIME_TIME"
+    ]
+  },
+  {
+    "name": "Hz. Meryem",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "21:45",
+    "endTimeStr": "23:30",
+    "duration": 105,
+    "startTime": 1373395500,
+    "endTime": 1373401800,
+    "genreList": [
+      "Sinema"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "İnsanlık tarihinin seçilmiş, masumiyet ve temizlik sembolü olan Hz. Meryem'in hayat hikâyesi...",
+    "longDescription": "M.Ö. 16. yüzyılda Roma ordusunun yardımıyla Kudüs'ü ele geçiren Herot tahta çıkar. Mesih'in doğacağı haberi Kudüslülerin umudu olurken Herot'a kabuslar yaşatır. Kudüs Yahudi toplumu artık sabırsızdır. Hahamlar onları yatıştırmakta zorlanır. Tam bu sırada beklenen Mesih yerine İmran ailesinin bir kızı olduğu açıklanır. Allah'a adanan çocuğun bir kız olması Herot'u rahatlatır. Celileli Yahudiler İmran ailesini dışlarlar. Zekeriya Peygamber'in Allah'a sığınmaktan başka yapacak bir şeyi yoktur. Me",
+    "directors": [
+      "Shahryar Bahrani"
+    ],
+    "actors": [
+      "Parviz Pourhosseini",
+      " Mohammad Kasebi",
+      " Jafar Dehghan",
+      " Shabnam Gholikhani"
+    ],
+    "stemmedWords": [
+      "yüzyıl",
+      "rom",
+      "ordu",
+      "yardım",
+      "tahta",
+      "haber",
+      "umut",
+      "kabus",
+      "toplum",
+      "sabır",
+      "haham",
+      "sıra",
+      "aile",
+      "kız",
+      "çocuk",
+      "celi",
+      "aile",
+      "peygamber",
+      "şey",
+      "yok"
+    ],
+    "annotatedEntities": [
+      {
+        "keyword": "Roma",
+        "keywordTypes": [
+          "Place",
+          "PopulatedPlace",
+          "Settlement"
+        ]
+      },
+      {
+        "keyword": "Yahudi",
+        "keywordTypes": [
+          "EthnicGroup"
+        ]
+      },
+      {
+        "keyword": "Mesih",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "İmran",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Celileli",
+        "keywordTypes": []
+      },
+      {
+        "keyword": "Yahudiler",
+        "keywordTypes": [
+          "EthnicGroup"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      "PRIME_TIME"
+    ]
+  },
+  {
+    "name": "TV Filmi",
+    "date": "09.Temmuz.2013",
+    "startTimeStr": "23:30",
+    "endTimeStr": "01:30",
+    "duration": 120,
+    "startTime": 1373401800,
+    "endTime": 1373409000,
+    "genreList": [
+      "Sinema"
+    ],
+    "imageUrl": "http://i.radikal.com.tr/tv-rehberi/ico-tvv.png",
+    "summary": "Televizyon filmi kuşağında birbirinden ilginç hikayeler ekrana geliyor.",
+    "longDescription": "Televizyon filmi kuşağında birbirinden ilginç filmler izleyiciyle buluşuyor. Günümüzde kaybolmaya yüz tutmuş manevi ilişkiler, komşuluk, iyilik-kötülük gibi kavramlar sorgulanıyor.",
+    "stemmedWords": [
+      "televizyon",
+      "film",
+      "kuşak",
+      "ilginç",
+      "film",
+      "günü",
+      "ilişki",
+      "komşu",
+      "kavram"
+    ],
+    "annotatedEntities": [],
+    "timeOfDay": [
+      "PRIME_TIME"
+    ]
+  }
+]
